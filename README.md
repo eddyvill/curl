@@ -1,4 +1,5 @@
 # curl
 ### Hi there 😍
 
-- my name is edduar
+-My name is edduar
+- Readme edit
